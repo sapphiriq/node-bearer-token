@@ -1,0 +1,26 @@
+{
+  "name": "express-bearer-token",
+  "version": "0.1.0",
+  "description": "Bearer token middleware for express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nooks/express-bearer-token"
+  },
+  "keywords": [
+    "bearer",
+    "token",
+    "middleware",
+    "express",
+    "authorization"
+  ],
+  "author": "Nook Scheel <nook@live.ru> (http://nook.pw)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nooks/express-bearer-token/issues"
+  },
+  "homepage": "https://github.com/nooks/express-bearer-token"
+}
