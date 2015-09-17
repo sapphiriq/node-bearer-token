@@ -1,6 +1,6 @@
 {
   "name": "node-bearer-token",
-  "version": "0.1.4",
+  "version": "0.1.9",
   "description": "Bearer token middleware for express.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/no/express-bearer-token"
+    "url": "git+https://github.com/no/express-bearer-token.git"
   },
   "keywords": [
     "bearer",
@@ -17,10 +17,36 @@
     "express",
     "authorization"
   ],
-  "author": "Nook Scheel <nook@live.ru> (http://nook.pw)",
+  "author": {
+    "name": "Nook Scheel",
+    "email": "nook@live.ru",
+    "url": "http://nook.pw"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nooks/express-bearer-token/issues"
   },
-  "homepage": "https://github.com/nooks/express-bearer-token"
+  "homepage": "https://github.com/nooks/express-bearer-token",
+  "gitHead": "68c59496d02719c8bd3b88b111dbe2fd6469c1df",
+  "_id": "node-bearer-token@0.1.8",
+  "_shasum": "e807ef664039e536f79af5ab646527b08fcb66ff",
+  "_from": "node-bearer-token@0.1.8",
+  "_npmVersion": "2.11.3",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "name": "nook",
+    "email": "nook@live.ru"
+  },
+  "maintainers": [
+    {
+      "name": "nook",
+      "email": "nook@live.ru"
+    }
+  ],
+  "dist": {
+    "shasum": "e807ef664039e536f79af5ab646527b08fcb66ff",
+    "tarball": "http://registry.npmjs.org/node-bearer-token/-/node-bearer-token-0.1.8.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/node-bearer-token/-/node-bearer-token-0.1.8.tgz"
 }
